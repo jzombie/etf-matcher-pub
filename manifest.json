@@ -1,7 +1,7 @@
 {
   "name": "ETF Matcher",
   "short_name": "ETF Matcher",
-  "descripition": "Customize a virtual portfolio to find ETFs matching your strategy using machine learning analysis of financial disclosures.",
+  "description": "Customize a virtual portfolio to find ETFs matching your strategy using machine learning analysis of financial disclosures.",
   "background_color": "#000000",
   "theme_color": "#000000",
   "display": "standalone",
